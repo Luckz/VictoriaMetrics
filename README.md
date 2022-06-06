@@ -32,7 +32,7 @@ Each service may scale independently and may run on the most suitable hardware.
 This is [shared nothing architecture](https://en.wikipedia.org/wiki/Shared-nothing_architecture).
 It increases cluster availability, simplifies cluster maintenance and cluster scaling.
 
-![Naive cluster scheme](assets/images/Naive_cluster_scheme.png)
+![Naive cluster scheme](docs/assets/images/Naive_cluster_scheme.png)
 
 ## Multitenancy
 
